@@ -16,6 +16,8 @@ notebooks/
 
 src/
   download_stock_data.py
+```
+
 
 ## Current Status
 
