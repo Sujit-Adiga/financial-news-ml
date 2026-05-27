@@ -18,3 +18,21 @@
 - Create EDA notebook
 - Plot closing prices
 - Calculate daily returns
+
+## 2026-05-27
+
+### Done
+- Created initial stock EDA notebook
+- Verified raw stock data files
+- Plotted closing prices
+- Calculated daily returns
+- Started planning preprocessing pipeline
+
+### Learned
+- Raw OHLCV data needs feature engineering before ML
+- Target variable must be created carefully to avoid data leakage
+
+### Next
+- Create `02_stock_preprocessing.ipynb`
+- Combine all stock CSVs
+- Add moving averages, volatility, and next-day target label
