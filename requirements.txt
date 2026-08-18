@@ -1,7 +1,11 @@
-pandas
 numpy
-matplotlib
-yfinance
-jupyter
+pandas
 scikit-learn
-seaborn
+xgboost
+yfinance
+transformers
+torch
+tqdm
+matplotlib
+python-dotenv
+kagglehub
